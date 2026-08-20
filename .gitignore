@@ -1,0 +1,37 @@
+# GitBook
+node_modules/
+.gitbook/
+_book/
+dist/
+
+# OS Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+.project
+.classpath
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+*.sass-cache/
+
+# Build output
+/build/
+/dist/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Dependencies
+package-lock.json
+yarn.lock

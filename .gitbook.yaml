@@ -1,0 +1,47 @@
+# GitBook Configuration for Entregador21 Documentation
+
+root: ./docs
+
+structure:
+  readme: ../README.md
+  summary: ../SUMMARY.md
+
+redirects:
+  home: /
+  introduction: /docs/01-introducao/visao-geral
+
+title: Documentação Entregador21
+description: Guia completo de implantação, configuração e operações da plataforma Entregador21
+
+language: pt-BR
+direction: ltr
+
+# Theme Configuration
+theme:
+  pages:
+    home: home
+
+# Plugins
+plugins:
+  - search
+  - alerts
+
+# Customization
+pdf:
+  paperSize: a4
+  pageNumbers: true
+  headerTemplate: '<div style="width: 100%; font-size: 9pt; padding: 10px 20px;"> Documentação Entregador21</div>'
+  footerTemplate: '<div style="width: 100%; font-size: 9pt; padding: 10px 20px; text-align: right;"><span class="page-number"></span></div>'
+
+# Analytics
+analytics:
+  google: ""
+
+# Repository
+remote: ""
+
+# Variables
+variables:
+  company: TEC21
+  support_email: suporte@tec21.com.br
+  version: "1.0"
