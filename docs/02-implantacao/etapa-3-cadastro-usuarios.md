@@ -134,8 +134,3 @@ O usuário administrativo fará o cadastro através da plataforma web usando as 
 ## Próximo Passo
 
 Após cadastrar todos os usuários, prossiga para [Etapa 4 - Assinatura Digital](./etapa-4-assinatura-digital.md)
-
----
-
-**Duração estimada**: 3-5 dias  
-**Responsáveis**: Suporte (SGC e coordenação), Daniel (credenciais), Cartório (dados)

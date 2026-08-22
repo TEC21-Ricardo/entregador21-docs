@@ -81,9 +81,3 @@ Existem diferentes perfis com permissões distintas:
 - 🔐 Use computador seguro
 - 🔐 Saia da sessão ao terminar
 - 🔐 Não use a plataforma em locais públicos
-
----
-
-**Versão**: 1.0  
-**Última atualização**: 2024  
-**Suporte**: suporte@tec21.com.br

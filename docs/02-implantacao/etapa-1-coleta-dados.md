@@ -48,7 +48,3 @@ Para gerarmos e montarmos o ambiente de vocês.
 ## Próximo Passo
 
 Após coletar os dados, prossiga para [Etapa 2 - Ambiente de Produção](./etapa-2-ambiente-producao.md)
-
----
-
-**Duração estimada**: 3-5 dias

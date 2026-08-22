@@ -52,8 +52,3 @@ Os testes devem cobrir:
 ## Próximo Passo
 
 Após aprovação nos testes, o cartório está pronto para operação.
-
----
-
-**Duração estimada**: 5-7 dias  
-**Responsáveis**: Suporte (coordenação), Cartório (testes), DEVs (suporte)

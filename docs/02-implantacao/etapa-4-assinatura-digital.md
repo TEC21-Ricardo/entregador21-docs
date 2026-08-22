@@ -71,7 +71,3 @@ Pessoal, qualquer dúvida estarei à disposição para ajudá-los.
 ## Próximo Passo
 
 Após configurar assinaturas, prossiga para [Etapa 5 - Testes de Rotina](./etapa-5-testes.md)
-
----
-
-**Duração estimada**: 3-7 dias (conforme disponibilidade do cartório)

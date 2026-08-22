@@ -35,7 +35,3 @@ Daniel fornecerá:
 ## Próximo Passo
 
 Após receber as credenciais, prossiga para [Etapa 3 - Cadastro de Usuários](./etapa-3-cadastro-usuarios.md)
-
----
-
-**Duração estimada**: 1-2 dias
