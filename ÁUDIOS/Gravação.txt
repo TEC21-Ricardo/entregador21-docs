@@ -1,0 +1,28 @@
+Antes de iniciar as operações em si,
+devemos validar com o cartório sobre o status alzente.
+Se será alzente uma vez, duas vezes ou três vezes.
+Caso seja, alzente três vezes,
+esse alzente é enviado em dias diferentes
+ou pode ser enviado no mesmo dia, em intimações.
+E também validasse as intimações devem ser alterado o prazo desses
+informações que deu estados de alzente e, se foi em dias diferentes,
+se o envio para o entregador será automático às minhas noites.
+Se o envio não for automático, será de controle do próprio entregador.
+Então, tudo isso a gente precisa validar com o cartório.
+Porque se o controle do entregador vai ficar no aplicativo, essas entregas,
+e ele mesmo vai colocar em rota no dia seguinte,
+transferindo as entregas que estão no aplicativo no campo do campo distribuído para o expresso.
+E aí, no dia seguinte, ele pega essas intimações do expresso e transfere para o distribuído.
+Então, validasse sobre a questão dos alzentes e uma outra questão seria sobre as rotas.
+Então, a gente pode sugerir ao cartório de criar rotas condicionais para ficar mais fácil
+a separação das rotas e o envio para o entregador.
+E aí, a gente dá as opções, uma delas seria criar rotas condicionais, ou seja,
+se uma intimação enviada e tem o Bio-X vai para o rota número 1, por exemplo,
+o Bio-X vai para o rota número 2, e assim por diante.
+Quando chegar essas entregas na plataforma, a gente tem um menu no sistema, uma função de atribuição de rotas.
+E aí, a gente vai criar essas rotas condicionais, a apropriar no sistema.
+E quando chegar, o cartório enviar essas entregas, que estão nessas rotas já pré-definidas,
+o próprio sistema já faz a atribuição das rotas nas respectivas rotas.
+E isso facilita o trabalho na hora de fazer a distribuição das entregas.
+Geralmente, o cartório faz uma planilha em Excel ou faz um documento no Word contendo essa criação de rotas
+para os desenvolvedores do entregador 21, e aí eles fazem o cadastro dessas rotas na plataforma.

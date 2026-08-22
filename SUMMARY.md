@@ -19,12 +19,10 @@
 
 ## Operações
 - [Acesso e Autenticação](docs/03-operacoes/autenticacao.md)
-- [Dashboard](docs/03-operacoes/dashboard.md)
-- [Gerenciamento de Intimações](docs/03-operacoes/gerenciamento-intimacoes.md)
-- [Cadastro de Usuários](docs/03-operacoes/cadastro-usuarios.md)
-- [Cadastro de Motoboys](docs/03-operacoes/cadastro-motoboys.md)
-- [Monitoramento de Entregas](docs/03-operacoes/monitoramento-entregas.md)
-- [Relatórios](docs/03-operacoes/relatorios.md)
+- [Status Ausentes](docs/03-operacoes/01-status-ausentes.md)
+- [Criação de Rotas Condicionais](docs/03-operacoes/02-criacao-rotas.md)
+- [Reatribuição de Rotas](docs/03-operacoes/03-reatribuicao-rotas.md)
+- [Atribuir Rotas aos Selecionados](docs/03-operacoes/04-atribuir-rotas-selecionados.md)
 
 ## Integração de API
 - [Autenticação](docs/04-integracao-api/autenticacao.md)
