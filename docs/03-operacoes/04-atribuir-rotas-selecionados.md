@@ -46,6 +46,12 @@ Resultado Final: Zero indefinidas ✅
 
 ---
 
+## Visualização: Atribuir Rotas aos Selecionados
+
+![Atribuição de Rotas - Demonstração](./gifs/atribuicao-rotas.gif)
+
+---
+
 ## Passo a Passo: Atribuir Rotas Manualmente
 
 ### Passo 1: Localizar Rotas Indefinidas
