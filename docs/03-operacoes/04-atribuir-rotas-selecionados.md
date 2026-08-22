@@ -48,7 +48,18 @@ Resultado Final: Zero indefinidas ✅
 
 ## Visualização: Atribuir Rotas aos Selecionados
 
-![Atribuição de Rotas - Demonstração](./gifs/atribuicao-rotas-otimizado.gif)
+> 💡 **Dica:** Clique na imagem abaixo para ampliar e visualizar em tela cheia
+
+<div style="text-align: center; margin: 20px 0;">
+  <a href="./gifs/atribuicao-rotas-otimizado.gif" target="_blank" style="cursor: zoom-in;">
+    <img src="./gifs/atribuicao-rotas-otimizado.gif" 
+         alt="Atribuição de Rotas - Clique para ampliar" 
+         style="max-width: 100%; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); transition: transform 0.2s; cursor: pointer;"
+         onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.2)'"
+         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.1)'">
+  </a>
+  <p style="font-size: 12px; color: #666; margin-top: 8px;">Clique para abrir em tela cheia</p>
+</div>
 
 ---
 
