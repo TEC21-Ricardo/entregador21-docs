@@ -49,31 +49,21 @@ Os desenvolvedores cadastram as rotas condicionais na plataforma, configurando a
 
 ## Tipos de Critérios para Rotas
 
-As rotas podem ser criadas baseadas em diferentes critérios:
+As rotas podem ser criadas baseadas nos seguintes critérios:
 
 ### Por Bairro
 ```
 Bairro = "Centro" → Rota 1
 Bairro = "Vila Mariana" → Rota 2
+Bairro = "Zona Sul" → Rota 3
 ```
 
 ### Por CEP
 ```
 CEP começa com "01" → Rota 1
 CEP começa com "02" → Rota 2
+CEP começa com "03" → Rota 3
 ```
-
-### Por Código do Bairro
-```
-Código Bio-X → Rota 1
-Código Bio-Y → Rota 2
-```
-
-### Por Outros Atributos
-- Zona geográfica
-- Cidade
-- Região
-- Combinação de vários critérios
 
 ---
 
