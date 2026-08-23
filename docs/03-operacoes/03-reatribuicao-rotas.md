@@ -22,6 +22,14 @@ Reatribuição de Rotas é uma **função automática** que reprocessa e redistr
 
 ---
 
+## Visualização: Reatribuir Rotas
+
+![Reatribuição de Rotas - Demonstração](./gifs/reatribuir-rotas.gif)
+
+> 💡 **Dica:** Use Ctrl + para aumentar o zoom se a imagem ficar pequena
+
+---
+
 ## Como Acessar Reatribuição de Rotas
 
 ### Na Tabela de Intimações
