@@ -24,6 +24,7 @@
 - [Reatribuição de Rotas](docs/03-operacoes/03-reatribuicao-rotas.md)
 - [Atribuir Rotas aos Selecionados](docs/03-operacoes/04-atribuir-rotas-selecionados.md)
 - [Agrupamento de Entregas](docs/03-operacoes/05-agrupamento-entregas.md)
+- [Envio de Rota para Entregador](docs/03-operacoes/06-envio-rota-entregador.md)
 
 ## Integração de API
 - [Autenticação](docs/04-integracao-api/autenticacao.md)

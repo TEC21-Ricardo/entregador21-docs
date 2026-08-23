@@ -1,0 +1,3 @@
+Depois de agrupar os destinos, nós precisamos fazer o envio desses destinos para o aplicativo do entregador.
+Então, para isso basta selecionar as entregas que foram já filtradas ali por rota e enviar para o motorboio.
+Tem o menor de enviar para o entregador.
