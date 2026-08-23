@@ -48,9 +48,9 @@ Resultado Final: Zero indefinidas ✅
 
 ## Visualização: Atribuir Rotas aos Selecionados
 
-![Atribuir Rotas aos Selecionados - Demonstração](./gifs/atribuir-rotas-selecionados.gif)
+![Atribuição de Rotas - Demonstração](./gifs/atribuicao-rotas-final.gif)
 
-> 💡 **Dica:** Use Ctrl + para aumentar o zoom se a imagem ficar pequena
+> 💡 **Dica:** Se a imagem ficar pequena no seu navegador, use Ctrl + para aumentar o zoom
 
 ---
 
