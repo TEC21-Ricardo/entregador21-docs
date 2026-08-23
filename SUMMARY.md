@@ -23,6 +23,7 @@
 - [Criação de Rotas Condicionais](docs/03-operacoes/02-criacao-rotas.md)
 - [Reatribuição de Rotas](docs/03-operacoes/03-reatribuicao-rotas.md)
 - [Atribuir Rotas aos Selecionados](docs/03-operacoes/04-atribuir-rotas-selecionados.md)
+- [Agrupamento de Entregas](docs/03-operacoes/05-agrupamento-entregas.md)
 
 ## Integração de API
 - [Autenticação](docs/04-integracao-api/autenticacao.md)

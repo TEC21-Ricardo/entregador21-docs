@@ -1,7 +1,0 @@
-Acredito que o GIF ficou errado, porque, na verdade, esse atribuir rotas acelestionados,
-a gente até pode fazer isso com qualquer entrega, com qualquer destino, mas geralmente a gente
-utilize esse menu para os indefinidos, ou seja, se está indefinido, não está em nenhuma rota,
-aí a gente atribui a rota ao que a gente selecionar, ok? Então, ficou errado ali no GIF.
-E aí, na hora de fazer a atribuição das rotas, aí ela já é naquele menu lá de reatribuir rotas,
-que poderia ser demonstrado também, ok? Então, se tivesse separado na documentação,
-aí a gente faz dois GIFs, então, em um só.

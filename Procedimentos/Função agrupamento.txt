@@ -1,0 +1,9 @@
+Bom, agora nós podemos verificar a função do agrupamento antes de colocar em rota.
+O agrupamento é um algoritmo que a plataforma roda para poder agrupar os destinos por endereço.
+Então, ele utiliza simularidade entre os endereços, deixe em ordem afabético para facilitar na hora de distribuir esses endereços.
+Para a formação da rota.
+E aí, até mesmo depois que a gente faz a separação das rotas condicionais e faz o filtro no sistema.
+Depois que a gente faz o filtro, a gente pode aplicar o agrupamento desse filtro em cima desse filtro que a gente realizou.
+Isso facilita ainda mais na hora de enviar para o entregador, seus entregas já organizadas.
+E aí, depois que a gente faz esse agrupamento, vem o próximo brite que seria colocar em rota, de fato, para o entregador.
+E aí, já cai no aplicativo dele.
