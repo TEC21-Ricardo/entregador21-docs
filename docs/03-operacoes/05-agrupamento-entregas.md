@@ -8,14 +8,6 @@ Agrupamento é um **algoritmo** que a plataforma executa para **agrupar os desti
 
 ---
 
-## Visualização: Função Agrupamento
-
-![Agrupamento de Entregas - Demonstração](./gifs/agrupamento-entregas.png)
-
-> 💡 **Dica:** Use Ctrl + para aumentar o zoom se a imagem ficar pequena
-
----
-
 ## Quando Usar Agrupamento
 
 ### ✅ Após Reatribuição de Rotas
