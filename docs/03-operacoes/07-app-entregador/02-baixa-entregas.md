@@ -98,11 +98,11 @@ As anotações são **muito importantes**:
 - "Horário melhor para abordagem: manhã"
 - "Já conhece o produto"
 
-### **Passo 7: Coleta de Comprobantes**
+### **Passo 7: Coleta de Comprovantes**
 
-**Foto:**
+**Foto:** 📷
 - Opcional ou obrigatório (conforme cartório)
-- Clique em **"Tirar Foto"**
+- Clique em **"Tirar Foto"** (ícone de câmera 📷)
 - Fotografe o local ou comprovante de entrega
 - Salva como evidência
 
@@ -114,7 +114,7 @@ As anotações são **muito importantes**:
 
 ### **Passo 8: Finalizar a Baixa**
 1. Após preencher todos os campos necessários
-2. Clique em **"Finalizar"** ou **"Confirmar"**
+2. Clique em **"Finalizar Baixa"** (botão com checkmark ✅)
 3. A entrega é registrada no app
 4. Sistema atualiza em tempo real
 5. Pronto para próxima entrega
