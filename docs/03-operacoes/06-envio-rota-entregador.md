@@ -16,6 +16,16 @@ Envio de Rota é o processo de **enviar os destinos/entregas agrupadas para o ap
 
 ---
 
+## Demonstração: Colocando Destinos em Rota e Separação
+
+Veja na prática como colocar os destinos em "Em Rota" ou "Em Separação":
+
+![Colocando Destinos em Rota e Separação - Demonstração](./gifs/opcoes-envio-rota-separacao.gif)
+
+> 💡 **Dica:** Use Ctrl + para aumentar o zoom se a imagem ficar pequena
+
+---
+
 ## Opções de Envio de Entregas
 
 Existem **duas formas** de enviar as entregas após agrupá-las:
