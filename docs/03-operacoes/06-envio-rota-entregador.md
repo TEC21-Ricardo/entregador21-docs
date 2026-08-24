@@ -2,9 +2,9 @@
 
 ## O que é Envio de Rota?
 
-Envio de Rota é o processo de **enviar os destinos/entregas agrupadas para o aplicativo do entregador (motoboy)**, após já terem sido filtradas e agrupadas por rota.
+Envio de Rota é o processo de **enviar os destinos/entregas agrupadas para o aplicativo do entregador (Entregador(motoboy))**, após já terem sido filtradas e agrupadas por rota.
 
-**Objetivo:** Disponibilizar as entregas organizadas no app mobile para que o motoboy possa executar as entregas.
+**Objetivo:** Disponibilizar as entregas organizadas no app mobile para que o Entregador(motoboy) possa executar as entregas.
 
 ---
 
@@ -31,11 +31,11 @@ Veja na prática como colocar os destinos em "Em Rota" ou "Em Separação":
 Existem **duas formas** de enviar as entregas após agrupá-las:
 
 ### 🚚 **Opção 1: Enviar para "Em Rota"**
-Envia imediatamente para o aplicativo do motoboy para execução imediata.
+Envia imediatamente para o aplicativo do Entregador(motoboy) para execução imediata.
 
 **Status:** 
 - Antes: `Registrado` → Depois: `Em Rota` ✅
-- As entregas aparecem no app do motoboy para entrega
+- As entregas aparecem no app do Entregador(motoboy) para entrega
 
 **Quando usar:**
 - Quando deseja enviar as entregas para execução no mesmo dia
@@ -67,7 +67,7 @@ Coloca as entregas em status de separação, aguardando o próximo ciclo.
 
 ### ✅ Após Agrupamento de Entregas
 - Depois de agrupar os destinos
-- Antes de enviar ao motoboy
+- Antes de enviar ao Entregador(motoboy)
 
 ### ✅ Com Entregas Já Filtradas
 - As entregas já devem estar filtradas por rota
@@ -95,7 +95,7 @@ Com as entregas selecionadas, escolha uma das opções:
 #### **Opção A: Enviar para "Em Rota"**
 1. Procure pela opção **"Enviar para o Entregador"** ou **"Enviar Rota"**
 2. As entregas mudam de status: `Registrado` → `Em Rota` ✅
-3. Aparecem imediatamente no app do motoboy
+3. Aparecem imediatamente no app do Entregador(motoboy)
 
 #### **Opção B: Colocar em "Em Separação"**
 1. Procure pela opção **"Colocar em Separação"** ou **"Separação"**
@@ -107,7 +107,7 @@ Com as entregas selecionadas, escolha uma das opções:
 1. O sistema processa a ação
 2. **Status atualizado** com sucesso
 3. Entregas prontas para:
-   - **Em Rota:** Execução imediata no app do motoboy
+   - **Em Rota:** Execução imediata no app do Entregador(motoboy)
    - **Em Separação:** Processamento automático no dia seguinte
 
 ---
@@ -115,7 +115,7 @@ Com as entregas selecionadas, escolha uma das opções:
 ## Resultado: Status das Entregas
 
 ### **Se você escolheu "Em Rota":**
-- ✅ Entregas aparecem no app do motoboy
+- ✅ Entregas aparecem no app do Entregador(motoboy)
 - ✅ Organizadas por rota
 - ✅ Em ordem (agrupadas)
 - ✅ Prontas para execução imediata
@@ -145,7 +145,7 @@ Com as entregas selecionadas, escolha uma das opções:
         ↓
 6. Status: Registrado → EM ROTA ✅
         ↓
-7. Motoboy Recebe no App
+7. Entregador(motoboy) Recebe no App
         ↓
 8. Execução das Entregas
 ```
@@ -168,7 +168,7 @@ Com as entregas selecionadas, escolha uma das opções:
         ↓
 8. Status: Em Separação → EM ROTA ✅
         ↓
-9. Motoboy Recebe no App
+9. Entregador(motoboy) Recebe no App
         ↓
 10. Execução das Entregas
 ```
@@ -184,7 +184,7 @@ Com as entregas selecionadas, escolha uma das opções:
 
 ### 💡 Acompanhar Envio
 - Verifique se as entregas chegaram ao app
-- Confirme com o motoboy o recebimento
+- Confirme com o Entregador(motoboy) o recebimento
 - Esteja disponível para suporte
 
 ### 💡 Registrar Envios
@@ -212,8 +212,8 @@ Com as entregas selecionadas, escolha uma das opções:
 - [ ] Histórico registrado
 
 ### **Se Em Rota:**
-- [ ] Confirmação do recebimento no app do motoboy
-- [ ] Motoboy tem as entregas disponíveis
+- [ ] Confirmação do recebimento no app do Entregador(motoboy)
+- [ ] Entregador(motoboy) tem as entregas disponíveis
 
 ### **Se Em Separação:**
 - [ ] Aguardar próximo ciclo de processamento
@@ -224,6 +224,6 @@ Com as entregas selecionadas, escolha uma das opções:
 
 ## Próximo Passo
 
-Após enviar para o entregador, o motoboy executa as entregas conforme a rota recebida.
+Após enviar para o entregador, o Entregador(motoboy) executa as entregas conforme a rota recebida.
 
-**Acompanhamento:** Verifique o status das entregas no app do motoboy ou no dashboard de operações.
+**Acompanhamento:** Verifique o status das entregas no app do Entregador(motoboy) ou no dashboard de operações.

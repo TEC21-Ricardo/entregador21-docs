@@ -4,7 +4,7 @@
 
 Agrupamento é um **algoritmo** que a plataforma executa para **agrupar os destinos por endereço**, utilizando similaridade entre endereços e deixando-os em **ordem alfabética** para facilitar a distribuição posterior.
 
-**Objetivo:** Organizar as entregas de forma inteligente para otimizar o envio aos motoboys.
+**Objetivo:** Organizar as entregas de forma inteligente para otimizar o envio aos Entregador(motoboy)s.
 
 ---
 
@@ -28,7 +28,7 @@ Agrupamento é um **algoritmo** que a plataforma executa para **agrupar os desti
 
 ### ✅ Para Otimizar Distribuição
 - Quando deseja deixar as entregas melhor organizadas
-- Para facilitar o envio ao motoboy
+- Para facilitar o envio ao Entregador(motoboy)
 
 ---
 
@@ -62,7 +62,7 @@ O agrupamento:
 |-----------|-----------|
 | **Organização** | Entregas agrupadas por endereço |
 | **Facilidade** | Ordem alfabética para acesso rápido |
-| **Eficiência** | Reduz tempo na distribuição aos motoboys |
+| **Eficiência** | Reduz tempo na distribuição aos Entregador(motoboy)s |
 | **Clareza** | Entregas já estruturadas para o entregador |
 
 ---

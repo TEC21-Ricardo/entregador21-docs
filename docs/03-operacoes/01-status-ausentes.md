@@ -2,7 +2,7 @@
 
 ## O que é Status Ausente?
 
-O status "Ausente" é registrado quando um motoboy tenta fazer uma entrega e a pessoa não está no local. A plataforma permite configurar quantas tentativas de ausência são necessárias antes de marcar definitivamente como entrega não realizada.
+O status "Ausente" é registrado quando um Entregador(motoboy) tenta fazer uma entrega e a pessoa não está no local. A plataforma permite configurar quantas tentativas de ausência são necessárias antes de marcar definitivamente como entrega não realizada.
 
 ---
 
@@ -40,14 +40,14 @@ Antes de iniciar as operações, é essencial validar com o cartório as regras 
 ## Envio de Intimações com Ausentes
 
 **Pergunta para o Cartório:**
-- O envio para o motoboy será **automático** ou **manual**?
+- O envio para o Entregador(motoboy) será **automático** ou **manual**?
 
 ### Envio Automático
-- O sistema envia automaticamente as intimações para o motoboy conforme a agenda de ausentes
+- O sistema envia automaticamente as intimações para o Entregador(motoboy) conforme a agenda de ausentes
 - Sem necessidade de intervenção manual
 
 ### Envio Manual (Controle do Entregador)
-- O motoboy/operador controla manualmente quando enviar as próximas tentativas
+- O Entregador(motoboy)/operador controla manualmente quando enviar as próximas tentativas
 - Usa os campos **Distribuído** e **Expresso** no app para gerenciar o envio
 - Estratégia: 
   - Dia 1: Envia do campo "Distribuído" para "Expresso"

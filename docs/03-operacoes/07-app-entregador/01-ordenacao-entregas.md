@@ -2,7 +2,7 @@
 
 ## O que é Ordenação?
 
-Ordenação é a **reorganização manual das entregas** no aplicativo do motoboy de acordo com sua **experiência e planejamento de rota**.
+Ordenação é a **reorganização manual das entregas** no aplicativo do Entregador(motoboy) de acordo com sua **experiência e planejamento de rota**.
 
 **Objetivo:** Deixar as entregas na melhor sequência para executar no dia.
 
@@ -49,7 +49,7 @@ Depois que realizamos o **agrupamento na plataforma** e **enviamos as entregas p
 
 | Benefício | Descrição |
 |-----------|-----------|
-| **Otimização** | Motoboy segue a melhor rota possível |
+| **Otimização** | Entregador(motoboy) segue a melhor rota possível |
 | **Experiência** | Aproveita conhecimento do entregador |
 | **Velocidade** | Reduz tempo total de entrega |
 | **Eficiência** | Melhor organização do dia |

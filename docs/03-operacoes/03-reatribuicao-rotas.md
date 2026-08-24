@@ -153,11 +153,11 @@ Periodicamente revise o mapeamento de rotas para adicionar novos bairros/termos 
 - [ ] Clicado em "Reatribuir Rotas"
 - [ ] Verificado resultado (rotas definidas)
 - [ ] Tratadas rotas indefinidas (se necessário)
-- [ ] Pronto para enviar aos motoboys
+- [ ] Pronto para enviar aos Entregador(motoboy)s
 
 ---
 
 ## Próximo Passo
 
 Se houve rotas indefinidas, acesse [Atribuir Rotas aos Selecionados](./04-atribuir-rotas-selecionados.md)  
-Caso contrário, prossiga com distribuição aos motoboys.
+Caso contrário, prossiga com distribuição aos Entregador(motoboy)s.

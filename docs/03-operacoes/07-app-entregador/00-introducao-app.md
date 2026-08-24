@@ -1,8 +1,8 @@
-# Operações no App do Motoboy
+# Operações no App do Entregador(motoboy)
 
 ## O Fluxo de Entrega no App
 
-Após o agrupamento e envio das entregas pela plataforma de operações, as intimações chegam no **aplicativo mobile do entregador (motoboy)**.
+Após o agrupamento e envio das entregas pela plataforma de operações, as intimações chegam no **aplicativo mobile do Entregador(motoboy)**.
 
 ### Como as Entregas Chegam
 
@@ -18,7 +18,7 @@ Após o agrupamento e envio das entregas pela plataforma de operações, as inti
 O entregador realiza as seguintes etapas:
 
 ### **1️⃣ Ordenação das Entregas**
-- Motoboy organiza a rota de acordo com sua experiência
+- Entregador(motoboy) organiza a rota de acordo com sua experiência
 - Reordena as entregas clicando nos três pontinhos (⋮)
 - Deixa pronto para executar
 

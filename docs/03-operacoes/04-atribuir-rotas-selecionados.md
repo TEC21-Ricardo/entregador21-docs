@@ -236,7 +236,7 @@ Após cada ciclo, verifique quantas indefinidas restaram para acompanhar o progr
 ## Próximo Passo
 
 Após atingir **ZERO rotas indefinidas**, as intimações estão prontas para:
-- ✅ Envio aos motoboys
+- ✅ Envio aos Entregador(motoboy)s
 - ✅ Distribuição e execução
 - ✅ Acompanhamento das entregas
 

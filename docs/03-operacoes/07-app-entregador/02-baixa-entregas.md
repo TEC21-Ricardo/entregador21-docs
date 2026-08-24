@@ -2,7 +2,7 @@
 
 ## O que é Baixa de Entrega?
 
-Baixa é o **registro completo de uma entrega realizada** no aplicativo do motoboy, incluindo:
+Baixa é o **registro completo de uma entrega realizada** no aplicativo do Entregador(motoboy), incluindo:
 - Status da entrega
 - Informações adicionais
 - Comprobantes (foto, assinatura)

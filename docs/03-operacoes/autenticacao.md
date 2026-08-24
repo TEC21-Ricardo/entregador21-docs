@@ -44,7 +44,7 @@ Existem diferentes perfis com permissões distintas:
 - ✅ Visualizar todos os relatórios
 - ✅ Configurações do cartório
 - ✅ Ver histórico completo
-- ✅ Gerenciar motoboys
+- ✅ Gerenciar Entregador(motoboy)s
 - ✅ Exportar dados
 
 ### 👨‍💻 Operador
@@ -55,7 +55,7 @@ Existem diferentes perfis com permissões distintas:
 - ✅ Ver intimações
 - ✅ Monitorar entregas
 - ✅ Gerar relatórios básicos
-- ✅ Comunicar com motoboys
+- ✅ Comunicar com Entregador(motoboy)s
 - ❌ Alterar configurações
 - ❌ Gerenciar usuários
 
@@ -69,7 +69,7 @@ Existem diferentes perfis com permissões distintas:
 - ✅ Capturar assinatura
 - ✅ Tirar fotos
 - ✅ Ver histórico pessoal
-- ❌ Ver dados de outros motoboys
+- ❌ Ver dados de outros Entregador(motoboy)s
 
 ---
 
