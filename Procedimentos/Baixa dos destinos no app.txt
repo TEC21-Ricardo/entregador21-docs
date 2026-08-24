@@ -1,0 +1,18 @@
+Depois da ordenação, o entregador realizará as entregas.
+Então, quando chegar no endereço do destinatário, ele fará a impressão do boleto da intimação, caso o status seja entregue, certo?
+Então, encontrou a pessoa ou o devidor do endereço ou alguém para receber a entrega, ele vai fazer a impressão do boleto de intimação, ok?
+E aí, para fazer essa impressão, a gente faz o pareamento através de Bluetooth com a impressora portátil, a impressora térmica no qual vai sair o boleto.
+Ela vai sair a impressão do boleto da intimação.
+Após fazer a entrega do boleto do devidor, o entregador vai selecionar o status no qual é o entregue, nesse exemplo.
+Ele coloca entregue, sobe para a nuvem, ou seja, a partir do momento que ele clica na nuvenzinha, que fica uma nuvenzinha do lado do status, é ali onde ele vai subir para a nuvem.
+E aí, ele já vai gravar no site, na plataforma, em tempo real.
+E com isso, o cartório também já consegue fazer essa importação em tempo real.
+Além disso, nós temos outros campos embaixo do status, que são informações adicionais.
+E aqui, a gente consegue colocar o nome do devedor, uma observação relacionada à entrega, entre outras coisas.
+E depois dos campos adicionais, nós temos a anotação.
+A anotação é muito importante, porque qualquer informação fica vinculada ao CTF ou CNPJ do devedor.
+Então, se hoje nós temos uma entrega e o entregador, ele coloca alguma informação relevante nessa entrega,
+a próxima entrega do dia seguinte já vai conter essa informação, caso ele insira essa informação no campo anotação.
+Além disso, nós temos, mais abaixo, a opção de tirar foto e também de colher a assinatura do devedor.
+E aí, depois que colhe a assinatura, o usuário e o entregador, ele pode finalizar essa baixa para sair do aplicativo.
+Ok?

@@ -1,0 +1,15 @@
+O próximo passo é, depois que realizamos o agrupamento no site, na plataforma, a gente
+precisa enviar essas entregas para o aplicativo do entregador.
+Quando essas entregas chegam no aplicativo, isso antes, o usuário loga no aplicativo,
+o usuário entregador e loga no aplicativo, e assim ele já tem a primeira visualização
+das entregas no menu inicial na aba distribuído.
+Clicando na aba distribuído, ele já consegue visualizar as intimações com o seu respectivo boleto.
+E aí, quando chega no aplicativo, ele vai fazer o tratamento dessas entregas, ele vai
+fazer a ordenação.
+Então, antes de sair para fazer a rota do dia, o entregador faz essa ordenação para
+a melhor forma para ele poder seguir com as entregas dele no aplicativo.
+Então, ele consegue fazer essa ordenação manualmente, geralmente o pessoal faz manualmente
+essa ordenação no aplicativo.
+E aí, para isso, ele vai clicar nos três pontinhos no canto superior direito, ali vai ter a opção
+de ordenar, ordenação, ele vai ordenar manualmente, e aí, depois que ele organizar, aí sim pode
+sair para fazer a rota.

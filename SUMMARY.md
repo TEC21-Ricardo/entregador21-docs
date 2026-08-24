@@ -25,6 +25,9 @@
 - [Atribuir Rotas aos Selecionados](docs/03-operacoes/04-atribuir-rotas-selecionados.md)
 - [Agrupamento de Entregas](docs/03-operacoes/05-agrupamento-entregas.md)
 - [Envio de Rota para Entregador](docs/03-operacoes/06-envio-rota-entregador.md)
+- [App do Motoboy](docs/03-operacoes/07-app-motoboy/00-introducao-app.md)
+  - [Ordenação de Entregas](docs/03-operacoes/07-app-motoboy/01-ordenacao-entregas.md)
+  - [Baixa de Entregas](docs/03-operacoes/07-app-motoboy/02-baixa-entregas.md)
 
 ## Integração de API
 - [Autenticação](docs/04-integracao-api/autenticacao.md)
