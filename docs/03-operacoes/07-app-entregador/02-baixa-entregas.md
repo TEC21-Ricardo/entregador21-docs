@@ -220,15 +220,23 @@ Cartório Consegue Importar ✅
 
 ---
 
-## Status Comuns
+## Status Disponíveis
 
-| Status | Quando Usar | Observação |
-|--------|------------|-----------|
-| **Entregue** | Intimação entregue com sucesso | Mais comum |
-| **Devolvido** | Devolver ao cartório | Registre motivo |
-| **Não Localizado** | Endereço inexistente | Adicione anotação |
-| **Recusado** | Devedor recusou | Detalhes importantes |
-| **Outro** | Conforme configuração | Consulte supervisor |
+Os principais status para registrar uma entrega são:
+
+- **Em Rota** - Entrega em andamento
+- **Entregue** - Intimação entregue com sucesso
+- **Ausente** - Pessoa não estava no local
+- **Ausente 2x** - Segunda tentativa de ausência
+- **Ausente 3x** - Terceira tentativa de ausência
+- **Desconhecido** - Pessoa não conhecida no endereço
+- **Mudou-se** - Devedor mudou de endereço
+- **End. Insuficiente** - Endereço com informações incompletas
+- **Recusado** - Devedor recusou receber
+- **Não existe o nº indicado** - Número do imóvel não existe
+- **Estabelecimento fechado** - Comércio ou estabelecimento fechado
+- **Falecido** - Devedor falecido
+- **Não visitado** - Entrega não visitada
 
 ---
 
