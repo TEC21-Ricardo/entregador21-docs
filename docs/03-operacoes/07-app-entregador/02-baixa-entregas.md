@@ -57,11 +57,19 @@ Após a ordenação, o entregador segue para executar cada entrega:
 ### **Passo 3: Marcar Status**
 **Selecione o status apropriado:**
 
+- `Em Rota` - Entrega em andamento
 - `Entregue` - Intimação entregue com sucesso
-- `Devolvido` - Devolvido ao cartório
-- `Não Localizado` - Endereço não existe
+- `Ausente` - Pessoa não estava no local
+- `Ausente 2x` - Segunda tentativa de ausência
+- `Ausente 3x` - Terceira tentativa de ausência
+- `Desconhecido` - Pessoa não conhecida no endereço
+- `Mudou-se` - Devedor mudou de endereço
+- `End. Insuficiente` - Endereço com informações incompletas
 - `Recusado` - Devedor recusou receber
-- `Outro` - Conforme configuração
+- `Não existe o nº indicado` - Número do imóvel não existe
+- `Estabelecimento fechado` - Comércio ou estabelecimento fechado
+- `Falecido` - Devedor falecido
+- `Não visitado` - Entrega não visitada
 
 **Exemplo: Clique em "Entregue"** (caso tenha sido bem-sucedido)
 
